@@ -120,7 +120,3 @@ greeting.hello('Ali').value // Hi Ali
 greeting.hello('Ali').handshake() // Hi Ali [with handshake]
 greeting.hello.handshake() // undefined [with handshake] : because no function called before
 ```
-
-## License
-
-[ISC](http://opensource.org/licenses/ISC)
