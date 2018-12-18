@@ -10,11 +10,6 @@ Node JS
 $ npm i clustr
 ```
 
-Browser
-``` html
-<script src='https://rawgit.com/Mahdimeraji07/clustr/master/dist/index.js'></script>
-```
-
 ## Quick usage
 ``` JS
 // Define new clustr
